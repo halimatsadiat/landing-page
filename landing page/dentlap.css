@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Muli';
+}
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,100,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: rgb(0,0,0, 0);
+}
+
+.bg1{
+    margin-top: 30px;
+    margin-bottom: 100px; 
+}
+
+.text-book{
+    font-size: 20px;
+    line-height: 35px;
+    font-weight: 350;
+}
+
+.hr1{
+    top: 0;
+    right: 0;
+    width: 20%;
+    border-top: 4px solid #0052FF;
+    border-right: 4px solid #0052FF;
+    height: 25%;
+    margin-top: 50px;
+    margin-right: 5px;    
+}
+
+.hr2{
+    bottom: 0;
+    left: 0;
+    width: 20%;
+    border-bottom: 4px solid #0052FF;
+    border-left: 4px solid #0052FF;
+    height: 25%; 
+    margin-bottom: -16px;
+    margin-left: 1px;
+}
+
+
+.child{
+    padding-top: 1rem;
+    padding-right: 0.2rem;
+}
+
+
+.hr3{
+    top: 0;
+    right: 0;
+    width: 20%;
+    border-top: 4px solid #0052FF;
+    border-right: 4px solid #0052FF;
+    height: 30%;
+    margin-top: 55px;
+    margin-right: 10px;    
+}
+
+.hr4{
+    bottom: 0;
+    left: 0;
+    width: 15%;
+    border-bottom: 4px solid #0052FF;
+    border-left: 4px solid #0052FF;
+    height: 30%; 
+    margin-bottom: -11px;
+    margin-left: 5px;
+}
+
+
+.child1{
+    padding-top: 1rem;
+    padding-right: 0.2rem;
+}
+
+footer{
+        background-color: #0052FF;
+        color: white;
+        font-size: 12px;
+        line-height: 30px;
+        padding: 20px 40px;
+}
