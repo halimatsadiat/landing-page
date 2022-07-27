@@ -1,5 +1,11 @@
-# landing-page
+Dentlab Landing Page.
 
-https://spiffy-swan-9b601e.netlify.app/
+This landing page was created to provide the best dental care.
 
-This link is the hosted link.
+LIVE LINK: https://spiffy-swan-9b601e.netlify.app/
+
+Features
+
+The page allows you to view the different service offered
+it allows you to book appointments.
+Subscribe to newsletter to gain insightful information about dental care
